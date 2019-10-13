@@ -1,0 +1,3 @@
+﻿  ClientOfClassFactoryDllServerWithRegFile.cpp
+d:\homepc\classfactoryproperties\clientofclassfactorydllserverwithregfile\clientofclassfactorydllserverwithregfile\clientofclassfactorydllserverwithregfile.cpp(197): warning C4101: 'iResult1': unreferenced local variable
+  ClientOfClassFactoryDllServerWithRegFile.vcxproj -> D:\HomePC\ClassFactoryProperties\ClientOfClassFactoryDllServerWithRegFile\x64\Debug\ClientOfClassFactoryDllServerWithRegFile.exe
